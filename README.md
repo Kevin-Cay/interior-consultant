@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://www.figma.com/file/3cf83hHRBAGjG5EKPcG2bV/interior-consultant-challenge?node-id=0%3A1">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://fervent-northcutt-4f376d.netlify.app/">
       Solution
     </a>
     <span> | </span>
@@ -37,7 +37,7 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- You can see my demo [here] () 
+- You can see my demo [here](https://fervent-northcutt-4f376d.netlify.app/) 
 - This was a amazing challenge, i improved my responsive skills and re-design using a Figma design.
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
